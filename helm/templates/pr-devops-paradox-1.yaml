@@ -16,8 +16,6 @@ spec:
       values: |
         image:
           tag: "1.71"
-        ingress:
-          host: "pr-devops-toolkit-1.ec2-3-73-224-182.eu-central-1.compute.amazonaws.com.nip.io"
       version: v3
     path: helm
     repoURL: https://github.com/akhileshjoshi2/devops-paradox.git
